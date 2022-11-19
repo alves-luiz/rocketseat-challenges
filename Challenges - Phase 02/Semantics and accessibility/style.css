@@ -69,12 +69,13 @@ h1 span {
   font-weight: bold;
 }
 
-p {
+section p {
   font-size: 14px;
   line-height: 28px;
   color: #7d7987;
 
   margin: 40px 0;
+  width: 438px;
 }
 
 button {
